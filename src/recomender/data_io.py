@@ -1,4 +1,4 @@
-# src/data_io.py
+# импорты
 from pathlib import Path
 import json
 import pandas as pd
