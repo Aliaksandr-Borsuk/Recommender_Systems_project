@@ -19,7 +19,7 @@ notebooks/
 
 - **03_matrix_factorization - ALS  и SVD**
 - - **03_01_matrix_factorization_SVD.ipynb(готов)**
-  - 03_02_matrix_factorization_ALS.ipynb
+  - **03_02_matrix_factorization_ALS_CLEAN.ipynb(готов)**  ( с очисткой метадаты)
 
 - 04_linear_models_ease_slim.ipynb - EASE (closed form) и  SLIM 
 
