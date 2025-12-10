@@ -15,10 +15,10 @@ notebooks/
 
 - **01_data_and_eda.ipynb - загрузка, EDA, предобработка, хронологическое разбиение, popularity baseline (готов)**
 
-- 02_knn_like.ipynb - ItemKNN, UserKNN, подбор гиперпараметров - Optuna, сравнение метрик
+- **02_knn_like.ipynb - ItemKNN, UserKNN, подбор гиперпараметров - Optuna, сравнение метрик(готов)**
 
-- 03_matrix_factorization - ALS  и SVD
-- - 03_01_matrix_factorization_SVD.ipynb
+- **03_matrix_factorization - ALS  и SVD**
+- - **03_01_matrix_factorization_SVD.ipynb(готов)**
   - 03_02_matrix_factorization_ALS.ipynb
 
 - 04_linear_models_ease_slim.ipynb - EASE (closed form) и  SLIM 
