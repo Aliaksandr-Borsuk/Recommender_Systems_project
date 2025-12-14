@@ -22,7 +22,8 @@ notebooks/
   - **03_02_matrix_factorization_ALS_CLEAN.ipynb(готов)**  ( с очисткой метадаты)
 
 - **04_linear_models_ease_slim.ipynb - EASE (closed form) и  SLIM**
-- - **04_01_linear_models_EASE_CLEAN.ipynb**(готов  с очисткой метадаты)
+- - **04_01_linear_models_EASE_CLEAN.ipynb(готов  с очисткой метадаты)**
+  - **04_02_linear_models_SLIM.ipynb(готов)**
 
 - 05_implicit_evaluation_and_splits.ipynb - implicit-метрики, negative sampling, split’ы, cold-start
 
