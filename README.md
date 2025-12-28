@@ -27,7 +27,7 @@ notebooks/
 
 - **05_user_segment_evaluation.ipynb(готов)** -cold-start, Low-activity users
 
-- 06_ncf_pytorch.ipynb -  Neural Collaborative Filtering на PyTorch, BPR/BCE
+- **06_ncf_pytorch.ipynb(готов)** -  Neural Collaborative Filtering на PyTorch, BPR/BCE
 
 - 07_two_tower_hybrid_pytorch.ipynb - two-tower гибрид с простым text encoder
 
