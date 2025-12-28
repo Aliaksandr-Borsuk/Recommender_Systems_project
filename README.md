@@ -25,7 +25,7 @@ notebooks/
 - - **04_01_linear_models_EASE_CLEAN.ipynb(готов  с очисткой метадаты)**
   - **04_02_linear_models_SLIM.ipynb(готов)**
 
-- 05_implicit_evaluation_and_splits.ipynb - implicit-метрики, negative sampling, split’ы, cold-start
+- **05_user_segment_evaluation.ipynb(готов)** -cold-start, Low-activity users
 
 - 06_ncf_pytorch.ipynb -  Neural Collaborative Filtering на PyTorch, BPR/BCE
 
